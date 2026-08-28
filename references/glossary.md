@@ -2,7 +2,7 @@
 
 Source: internal APAC Term Glossary (provided by the team, not from knowledge.levanta.io)
 
-Approved Chinese translations for Creator-side and cross-cutting feature names and UI labels. Use this wording when translating Creator content into Chinese on the fly (Creator articles have no official Chinese translation, unlike Seller articles which have `sellers_zh.md`). If a term appears here, use the wording given — do not re-translate it differently. If a usage note is given, follow it exactly (e.g. which of two Chinese terms is standard, or which term to keep in English).
+Approved Chinese translations for Creator-side and cross-cutting feature names and UI labels. Use this wording when translating Creator content into Chinese on the fly (Creator articles have no official Chinese translation, unlike Seller articles which have official Chinese versions in the live KB). If a term appears here, use the wording given — do not re-translate it differently. If a usage note is given, follow it exactly (e.g. which of two Chinese terms is standard, or which term to keep in English).
 
 ---
 
